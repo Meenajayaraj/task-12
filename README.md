@@ -5,7 +5,7 @@
   
 ```https://github.com/public-apis/public-apis```
 
-```click the below link for task output```
+```click the link for task output```
 [Netlify](https://task-12-jokesapi.netlify.app/)
 
 output for the task:
